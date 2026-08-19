@@ -6,9 +6,11 @@ This app predicts Post Mortem Interval (PMI) using circRNA expression data with 
 
 Section Descriptions:
 1. Home
+   
 Provides an introduction to the application and information about the lab. Includes citation information for the research paper this tool is based on.
 
-2. Mouse Data
+3. Mouse Data
+   
 Predict PMI using mouse data. Features include:
 
 Select tissue type and circRNA from dropdown menus
