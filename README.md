@@ -9,7 +9,7 @@ Section Descriptions:
    
 Provides an introduction to the application and information about the lab. Includes citation information for the research paper this tool is based on.
 
-3. Mouse Data
+2. Mouse Data
    
 Predict PMI using mouse data. Features include:
 
@@ -18,28 +18,38 @@ Adjust temperature and expression values
 View 3D visualization of predictions
 See statistical plots comparing actual vs predicted values
 Access detailed model information
+
 3. Human Data
+   
 Predict PMI using human data with optional transfer learning from mouse models. Features include:
 
 Same input options as Mouse Data section
 Toggle transfer learning option (enabled by default)
 View transfer learning performance plots
 Access QQ plots for model diagnostics
+
+
 4. User Data
+   
 Upload and analyze your own data. Features include:
 
 Upload Excel files with your experimental data
 Select relevant columns from your data
 Generate predictions using your custom dataset
 View 3D visualizations specific to your data
+
+
 5. Website Statistics
+   
 Track application usage metrics including:
 
 Total views and daily views
 Number of unique users
 Detailed access logs
 Interactive charts of usage patterns
+
 6. Publications
+   
 For reading and helping
 Fu J, Song B, Qian J, Cheng J, Chiampanichayakul S, Anuchapreeda S, Fu J. Exploring the Post Mortem Interval (PMI) Estimation Model by circRNA circRnf169 in Mouse Liver Tissue. Int J Mol Sci. 2025 Jan 26;26(3):1046. doi: 10.3390/ijms26031046. PMID: 39940814.
 Song B, Fu J, Qian J, He T, Cheng J, Chiampanichayakul S, Anuchapreeda S, Fu J. Development of Mathematical Models Using circRNA Combinations (circTulp4, circSlc8a1, and circStrn3) in Mouse Brain Tissue for Postmortem Interval Estimation. Int J Mol Sci. 2025 May 8;26(10):4495. doi: 10.3390/ijms26104495. PMID: 40429639.
